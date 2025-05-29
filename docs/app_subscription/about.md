@@ -2,9 +2,9 @@
 sidebar : 1
 ---
 
-# app_notification_service 📦
+# app_subscription 📦
 
-Flutter Starter Kit does not include the app_subscription package.
+Flutter Starter Kit includes the app_subscription package.
 
 ### Implementation Of Product Purchase Flow
 
@@ -85,5 +85,5 @@ onBackButtonPressed: () async {
 ```
 
 :::tip
-- For diving in-app purchase integration for apple app store and goole play store follow this guide by Avni
+- For diving in-app purchase integration for apple app store and goole play store follow this [guide](https://in-app-purchase-doc.vercel.app/).
 :::
