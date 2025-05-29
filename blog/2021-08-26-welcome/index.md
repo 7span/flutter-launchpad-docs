@@ -1,5 +1,5 @@
 ---
 slug: welcome
-title: Creator
+title:  Director of Docs
 authors: [avni]
 ---
