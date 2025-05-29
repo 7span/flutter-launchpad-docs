@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Everything you need for Flutter development. Open source and ready to use boilerplate.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
