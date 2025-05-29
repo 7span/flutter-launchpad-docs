@@ -1,6 +1,6 @@
 {
-    "label": "CI/CD WorkFlow",
-    "position": 7,
+    "label": "app_ui Package",
+    "position": 12,
     "link": {
         "type": "generated-index"
     }
