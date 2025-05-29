@@ -4,38 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Get Started Instantly',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Skip setup hassle—clone, run, and build. Our boilerplate and tools help you launch features in minutes.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Automate the Boring Stuff',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Generate full features—API integration, pagination, and state management—with a single command. No manual wiring needed.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Developer-Centric Workflow',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Modular structure, CLI scripts, and clean architecture. Built to keep your development fast, smooth, and maintainable.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

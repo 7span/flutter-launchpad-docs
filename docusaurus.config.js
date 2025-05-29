@@ -11,7 +11,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Flutter Starter Kit',
-  tagline: 'Cut down your app setup time from a WEEK to a DAY',
+  tagline: 'Cut down your app setup time from a WEEK to a DAY!',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -81,7 +81,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Dashboard',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -93,9 +93,9 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'More', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/7span/flutter-starter-kit',
             label: 'GitHub',
             position: 'right',
           },
@@ -108,38 +108,34 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Explore',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '7Span Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/qCS7cyZJnN',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/7SpanHQ',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/7span/posts/?feedView=all',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Made with 💙',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Have Feedbacks?',
+                to: 'https://github.com/7span/flutter-starter-kit/issues',
               },
             ],
           },
