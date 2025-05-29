@@ -1,5 +1,5 @@
 ---
 slug: welcome
-title: Creators
+title: Creator
 authors: [avni]
 ---
