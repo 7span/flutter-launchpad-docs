@@ -11,7 +11,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Flutter Launchpad',
-  tagline: 'Cut down your app setup time from a WEEK to a DAY!',
+  tagline: 'Ship market-ready Flutter apps at lightning speed',
   favicon: 'img/logo.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -95,7 +95,7 @@ const config = {
           },
           { to: '/blog', label: 'More', position: 'left' },
           {
-            href: 'https://github.com/7span/flutter-starter-kit',
+            href: 'https://github.com/7span/flutter-launchpad/issues',
             label: 'GitHub',
             position: 'right',
           },
@@ -135,7 +135,7 @@ const config = {
             items: [
               {
                 label: 'Have Feedbacks?',
-                to: 'https://github.com/7span/flutter-starter-kit/issues',
+                to: 'https://github.com/7span/flutter-launchpad/issues',
               },
             ],
           },
