@@ -10,9 +10,9 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Flutter Starter Kit',
+  title: 'Flutter Launchpad',
   tagline: 'Cut down your app setup time from a WEEK to a DAY!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {

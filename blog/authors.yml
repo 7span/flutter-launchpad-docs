@@ -11,7 +11,7 @@ avni:
 
 cavin:
   name: Cavin Macwan
-  title: App Architect
+  title: Creator Of Many Things
   url: https://github.com/cavin-macwan
   image_url: https://avatars.githubusercontent.com/u/50316190?s=400&u=5b27fcd113dfdc22953264093450649ad98a7aed&v=4
   page: true
@@ -19,3 +19,70 @@ cavin:
     x: cavin_1910
     linkedin: cavin-macwan
     github: https://github.com/cavin-macwan
+
+urvashi:
+  name: Urvashi Kharecha
+  title: Lead Software Engineer
+  url: https://github.com/urvashikharecha
+  image_url:  https://avatars.githubusercontent.com/u/20655150?s=400&u=12a08fb903ab0ecd8516eddcf614a297c908a58d&v=4
+  page: true
+  socials:
+    x: urvashikharecha
+    linkedin: urvashi-kharecha
+    github:  https://github.com/urvashikharecha
+
+rythem:
+  name: Rytham Hansaliya
+  title: Software Engineer
+  url: https://github.com/Rydham1308
+  image_url: https://avatars.githubusercontent.com/u/87901705?v=4
+  page: true
+  socials:
+    x: Rydham1308
+    linkedin: Rydham1308
+    github: https://github.com/Rydham1308
+
+
+tulsi:
+  name: Tulsi Gohel
+  title: Software Engineer
+  url: https://github.com/Tulsi08
+  image_url: https://avatars.githubusercontent.com/u/149112434?s=400&u=c59cc88a9b49f295bdda2f9ecf1d90684e419b3d&v=4
+  page: true
+  socials:
+    x: GohelTulsi25979
+    linkedin: tulsi-gohel
+    github: https://github.com/Tulsi08
+
+nikunj:
+  name:  Nikunj Panchal
+  title:  Software Engineer
+  url:  https://github.com/nikunjpanchall
+  image_url: https://avatars.githubusercontent.com/u/114209867?v=4
+  page: true
+  socials:
+    x: nikunjpanchall
+    linkedin: nikunj-panchal-
+    github:  https://github.com/nikunjpanchall
+
+pratik:
+  name: Pratik Butani
+  title: Engineering Lead
+  url: https://github.com/pratikbutani
+  image_url: https://avatars.githubusercontent.com/u/3306366
+  page: true
+  socials:
+    x: pratik13butani
+    linkedin: pratikbutani
+    github: https://github.com/pratikbutani
+
+bhavik:
+  name: Bhavik Maradiya
+  title: Software Philosopher
+  url: https://github.com/bhavikmaradiya
+  image_url: https://avatars.githubusercontent.com/u/68755759?v=4
+  page: true
+  socials:
+    x: wroteitanyway
+    linkedin: bhavik-maradiya
+    github: https://github.com/bhavikmaradiya

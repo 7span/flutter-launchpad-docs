@@ -1,6 +1,5 @@
 ---
 slug: welcome
 title: Creators
-authors: [avni,cavin]
+authors: [pratik, cavin,urvashi,avni,bhavik,tulsi,nikunj,rythem]
 ---
-

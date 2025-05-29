@@ -2,35 +2,7 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
-const FeatureList = [
-  {
-    title: 'Get Started Instantly',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Skip setup hassle—clone, run, and build. Our boilerplate and tools help you launch features in minutes.
-      </>
-    ),
-  },
-  {
-    title: 'Automate the Boring Stuff',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Generate full features—API integration, pagination, and state management—with a single command. No manual wiring needed.
-      </>
-    ),
-  },
-  {
-    title: 'Developer-Centric Workflow',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Modular structure, CLI scripts, and clean architecture. Built to keep your development fast, smooth, and maintainable.
-      </>
-    ),
-  },
-];
+const FeatureList = [];
 
 function Feature({ Svg, title, description }) {
   return (

@@ -4,7 +4,7 @@ sidebar : 1
 
 # app_subscription 📦
 
-Flutter Starter Kit includes the app_subscription package.
+Flutter Launchpad includes the app_subscription package.
 
 ### Implementation Of Product Purchase Flow
 

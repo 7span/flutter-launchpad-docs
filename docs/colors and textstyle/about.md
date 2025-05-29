@@ -5,7 +5,7 @@ sidebar_position: 1
 # Accessing Colors And TextStyles 🎨
 
 - If you look at the extensions.dart file, you will be able to see extensions related to accessing colors and textstyles.
-- In this boilerplate, we follow material conventions. So to use any color, you can use **context.colorscheme** like this:
+- In this Flutter Launchpad, we follow material conventions. So to use any color, you can use **context.colorscheme** like this:
 
 ```
 Container(color:context.colorScheme.primary)

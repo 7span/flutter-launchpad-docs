@@ -4,7 +4,7 @@ sidebar: 1
 
 # Pre-Integrated CI/CD WorkFlow 
 
-Flutter Boilerplate provides pre-integrated CI/CD work with the following configurations.
+Flutter Launchpad provides pre-integrated CI/CD work with the following configurations.
 
 1. Triggers on every push to **main** and **development** branches
 2. Sets up Java and Flutter environment on GitHub-hosted macOS runner.

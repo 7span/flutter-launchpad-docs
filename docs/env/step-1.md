@@ -9,7 +9,7 @@ We're using envied package for the environment variables since it encrypts every
 By default, the Dart side of the environment files will be already given for your Base API URL and environment name. But you will need to create the .env files in order to utilize it in your Flutter App.
 
 :::tip
-- .env files will be generated while setting up boilerplate through the command sh scripts/setup.sh.
+- .env files will be generated while setting up Flutter Launchpad through the command sh scripts/setup.sh.
 - You can skip the 1st step in this case.
 :::
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 We're using the [auto_route](https://pub.dev/packages/auto_route) package for the routing. They help us to use the newer Navigator 2.0 API while keeping the learning curve as low as possible.
 
-- The boilerplate comes with the routing setup out of the box. Thus, this guide will help you to create your own routes.
+- The Flutter Launchpad comes with the routing setup out of the box. Thus, this guide will help you to create your own routes.
 
 ### 1. Annotating the screen
 
