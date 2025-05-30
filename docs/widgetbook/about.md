@@ -10,6 +10,6 @@ Our Flutter Stater Kit comes with **Widgetbook** support for component-driven de
 - Hot reload supported
 - Easy for designers and devs to collaborate
 
-👉 [Explore the Widgetbook integration](https://boilerplate-v2-c7080.web.app/)
+👉 [Explore the Widgetbook integration](https://flutter-launchpad-widgetbook.web.app/)
 
 ![Widgetbook](/img/widgetbook.png)
