@@ -140,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Flutter Launchpad · © 2025 · Developed by 7Span with 💙 and Flutter`,
       },
       prism: {
         theme: prismThemes.github,
