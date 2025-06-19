@@ -4,7 +4,7 @@ sidebar : 1
 
 # app_subscription 📦
 
-Flutter Launchpad includes the app_subscription package.
+Dashing-Kit includes the app_subscription package.
 
 ### Implementation Of Product Purchase Flow
 

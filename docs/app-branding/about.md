@@ -4,7 +4,7 @@ sidebar : 1
 
  # App branding and configuration
 
-- Flutter Launchpad provides a single command to change application name, application logo and application package name all together. 😉
+- Dashing-Kit provides a single command to change application name, application logo and application package name all together. 😉
 - For this, run the following command.
 
 ```
@@ -42,7 +42,7 @@ And Voila you have successfully updated the app logo , app name and package name
 ![app-brand](/img/app-brand/app-brand-4.png)
 
 :::danger
-- You will get an alert about re-configure your firebase project and updating the google-services.json file once you change the package name as Flutter Launchpad provided default Firebase configuration will not work now.
+- You will get an alert about re-configure your firebase project and updating the google-services.json file once you change the package name as Dashing-Kit provided default Firebase configuration will not work now.
 - To re-configure Firebase follow the previos step.
 :::
 

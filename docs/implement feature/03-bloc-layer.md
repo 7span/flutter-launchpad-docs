@@ -45,7 +45,7 @@ final class HomeGetPostEvent extends HomeEvent {
 
 ### 2. Creating the State file 📌
 
-Anyone watching this documentation would know about the `State class` because `BLoC State Management `is the basic requirement of this Flutter Launchpad.
+Anyone watching this documentation would know about the `State class` because `BLoC State Management `is the basic requirement of the Dashing-Kit.
 
 Thus, the requirement of writing about the `State Class` is to specify the format we're gonna use to create `State Classes` in the project.
 

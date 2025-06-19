@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Flutter Launchpad',
+  title: 'Dashing-Kit',
   tagline: 'Ship market-ready Flutter apps at lightning speed',
   favicon: 'img/logo.svg',
 
@@ -95,7 +95,7 @@ const config = {
           },
           { to: '/blog', label: 'More', position: 'left' },
           {
-            href: 'https://github.com/7span/flutter-launchpad/issues',
+            href: 'https://github.com/7span/dashing-kit/issues',
             label: 'GitHub',
             position: 'right',
           },
@@ -135,12 +135,12 @@ const config = {
             items: [
               {
                 label: 'Have Feedbacks?',
-                to: 'https://github.com/7span/flutter-launchpad/issues',
+                to: 'https://github.com/7span/dashing-kit/issues',
               },
             ],
           },
         ],
-        copyright: `Flutter Launchpad · © 2025 · Developed by 7Span with 💙 and Flutter`,
+        copyright: `Dashing-Kit · © 2025 · Developed by 7Span with 💙 and Flutter`,
       },
       prism: {
         theme: prismThemes.github,

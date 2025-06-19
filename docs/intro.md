@@ -6,14 +6,14 @@ sidebar_position: 1
 
 ![banner](/img/banner.webp)
 
-## Out of the box features provided in Flutter Launchpad 📦 
+## Out of the box features provided in Dashing-Kit 📦 
 
 - Leverages `Melos` for mono-repo structure. ⚙️
 - **BLoC Architecture** for scalable state management.🏗️
 - Navigator 2.0 Routing with `auto_route` for seamless navigation.🛣️
 - Pre-configured Environment Handling with `envied` for secure variables.🔐
 - Pre-set `Firebase` and **flavor configuration** for multi-environment support.🔥
-- One-click Setup with `scripts` to initialize the Flutter Launchpad in seconds. ⚡
+- One-click Setup with `scripts` to initialize the Dashikng-Kit in seconds. ⚡
 - Auto-generate new feature with CRUD operation api integration with pagination with `mason`. 🔮
 - Well-structured `Documentation` for easy onboarding.📖
 - Pre-defined **Custom Widgets** to speed up UI development. 🧱
