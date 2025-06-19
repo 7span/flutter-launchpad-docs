@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Step 1
+# Clone repository
 
-## Clone repository
+### Step 1
 
 - Clone the Github Repository by running the command below:
 

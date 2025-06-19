@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Step 2
+# Run setup scripts
 
-## Run setup scripts
+### Step 2
 
 - Run this command in the terminal to ensure an updated project environment.
 

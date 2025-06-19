@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Step 3
+# Launch application
 
-## Launch application
+### Step 3
 
 - Launch your app by either through your IDE or by running the command below:
 
