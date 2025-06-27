@@ -1,9 +1,19 @@
-<svg width="17" height="28" viewBox="0 0 17 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0.5 0.5V27H6.5V16L16 13.4545L14.5 9L6.5 10.8756L5.5 11.1436V5H16V0.5H0.5Z" fill="url(#paint0_linear_627_1024)" stroke="#D7F1FD" stroke-linejoin="round"/>
-<defs>
-<linearGradient id="paint0_linear_627_1024" x1="4.75" y1="0.5" x2="4.75" y2="27" gradientUnits="userSpaceOnUse">
-<stop stop-color="#065B9D"/>
-<stop offset="1" stop-color="#32B9F6"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #42a5f5;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="0" width="512" height="512"/>
+  <g>
+    <path class="cls-2" d="M426.66,256c0,44.76-18.14,85.3-47.5,114.63-29.34,29.35-69.87,47.5-114.63,47.5h-76.8v-59.73c28.28,0,53.88-11.47,72.39-30,18.53-18.52,30-44.12,30-72.4,0-56.56-45.86-102.4-102.4-102.4v-59.73h76.8c89.53,0,162.13,72.58,162.13,162.13Z"/>
+    <path class="cls-2" d="M187.73,153.6v204.8c-56.56,0-102.4-45.86-102.4-102.4v-102.4h102.4Z"/>
+  </g>
 </svg>

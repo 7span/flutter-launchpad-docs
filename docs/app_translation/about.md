@@ -11,7 +11,7 @@ app_translation package manages locale in application.
 ### Implementation : 
 
 - We are using a [**slang**](https://pub.dev/packages/slang) package for localization.
-- Localization is configured by default in the Dashing-Kit.
+- Localization is configured by default in the DashingKit.
 - You just need to add the key-value pair of the localization keys inside app_translations package.
 
 Add a key-value pair like this in the `i18n` folder:
@@ -28,7 +28,7 @@ After you add the key-value pairs, run the command below to generate the corresp
 melos run locale-gen
 ```
 
-Now you can use the key in the Dashing-Kit project like this:
+Now you can use the key in the DashingKit project like this:
 
 ```
 Text(context.t.login)

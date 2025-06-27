@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![banner](/img/banner.webp)
 
-## Out of the box features provided in Dashing-Kit 📦 
+## Out of the box features provided in DashingKit 📦 
 
 - Leverages `Melos` for mono-repo structure. ⚙️
 - **BLoC Architecture** for scalable state management.🏗️

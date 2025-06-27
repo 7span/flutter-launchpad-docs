@@ -25,4 +25,4 @@ To use assets like the code above, follow the steps:
 
 2. Run the build runner command: `melos run asset-gen`
 
-3. Now you can use assets in the Dashing-Kit project as shown.
+3. Now you can use assets in the DashingKit project as shown.

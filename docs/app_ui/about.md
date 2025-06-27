@@ -16,7 +16,7 @@ The `app_ui` package is structured using the **Atomic Design Pattern** and inclu
 
 ### Spacing 🛰️ ( Atom level )
 
-- In Dashing-Kit, you won't need to directly use SizedBox for spacing, because you'll have a better way to do it 😉 In the `spacing.dart` file.
+- In DashingKit, you won't need to directly use SizedBox for spacing, because you'll have a better way to do it 😉 In the `spacing.dart` file.
 - You will be able to configure the horizontal and vertical spacing parameters. 
 - You can use HSpace or VSpace with their respective named constructors for adding empty space.
 - This will ensure that whenever the user wants to change the spacing throughout the app, they will be able to do so by modifying just this class.
@@ -40,7 +40,7 @@ AppBorderRadius, Insets, AppText, AppLoadingIndicator
 
 ### Accessing Buttons 🔵 ( Molecule Level )
 
-- In the Dashing-Kit, There's file named app_button.dart that includes all the types and variations of the Buttons that you'll need in the entire App.
+- In the DashingKit, There's file named app_button.dart that includes all the types and variations of the Buttons that you'll need in the entire App.
 - You can go into that file and configure the buttons as per your App's design.
 
 Example of using a button:
