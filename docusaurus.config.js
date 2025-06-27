@@ -93,6 +93,12 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'bonusSidebar',
+            position: 'left',
+            label: 'Bonus',
+          },
           { to: '/blog', label: 'More', position: 'left' },
           {
             href: 'https://github.com/7span/DashingKit/issues',
