@@ -57,9 +57,6 @@ Open Xcode > Your Project Target > Signing & Capabilities > Add Associated Domai
 
 ![guide_2](/img/guide_2.png)
 
-/// TODO : 2 image 
-
-
 ```jsx title="Example JSON structure:"
 {
   "applinks": {
